@@ -1,0 +1,122 @@
+body{
+    background-color: #cfcfcf;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width:  50px;
+    border-radius: 50px;
+    margin-right: 10px;
+    float: left;
+}
+.username{
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    color:whitesmoke;
+    float: left;
+    font-size: 20px;
+}
+.verify{
+    color:whitesmoke;
+    opacity: 50%;
+}
+.subtittle{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.content{
+    color:#ecf2f8 ;
+    opacity: 70%;
+    font-size: 15px;
+}
+.username2{
+    color: #19212e;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    float: left;
+    font-size: 20px;
+}
+.verify2{
+    color: #19212e;
+    opacity: 50%;
+}
+.subtittle2{
+    color: #19212e;
+    font-weight:  bold;
+    float: left;
+    font-size: 18px;
+}
+.content2{
+    color: #19212e;
+    opacity: 70%;
+    font-size: 15px;
+}
+.container{
+    display: flex;
+    margin-right: 10px;
+    justify-content: center;
+    align-items: center;
+    
+}
+#testimonial_container{
+    display: flex;
+    flex-direction: column;
+}
+
+#testimonial_upper{
+    display: flex;
+    margin-right: 10px;
+    padding: 10px;
+
+}
+#testimonial_lower{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+#testimonial_1{
+    background-color:#7541c8;
+    border-radius: 10px;
+    margin-right: 20px;
+    padding: 10px;
+    width: 550px;
+}
+#testimonial_2{
+    background-color:#48556a;
+    border-radius: 10px;
+    margin-right: 5px;
+    padding: 10px;
+    width: 305px;
+    height: 300px;
+
+}
+#testimonial_3{
+    background-color: #19212e;
+    border-radius: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    width: 550px;
+}
+#testimonial_4{
+   background-color:#ffff; 
+   border-radius: 10px; 
+   margin-right: 20px;
+   padding: 10px;
+   width: 300px;
+
+}
+#testimonial_5{
+    background-color:#ecf2f8;
+    border-radius: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    width: 220px;
+}
